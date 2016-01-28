@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentKiosk", "PaymentKiosk\PaymentKiosk.csproj", "{302EDDBC-868B-4E7D-922D-F77DEE1ECE23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentKiosk.Core", "PaymentKiosk.Core\PaymentKiosk.Core.csproj", "{68D442A2-6EC7-4027-A551-522C0181D09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{302EDDBC-868B-4E7D-922D-F77DEE1ECE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302EDDBC-868B-4E7D-922D-F77DEE1ECE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302EDDBC-868B-4E7D-922D-F77DEE1ECE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302EDDBC-868B-4E7D-922D-F77DEE1ECE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D442A2-6EC7-4027-A551-522C0181D09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D442A2-6EC7-4027-A551-522C0181D09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D442A2-6EC7-4027-A551-522C0181D09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D442A2-6EC7-4027-A551-522C0181D09E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
